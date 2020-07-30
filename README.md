@@ -4,6 +4,6 @@
 
 File 01: Basics of chaos theory
 
-File 02: Function to iterate/visualize strange attractors
+File 02: Functions to iterate/visualize strange attractors
 
 File 03: Some examples
