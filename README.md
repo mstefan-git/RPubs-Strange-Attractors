@@ -1,2 +1,2 @@
-# RPubs-Strange-Attractors
-Replication files for "Using R to Find Strange Attractors" 
+# RPubs: Using R to Find Strange Attractors
+(https://rpubs.com/mstefan-rpubs)
